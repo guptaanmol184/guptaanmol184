@@ -1,6 +1,8 @@
-<p align="left">
+<p align="left
   <img src="https://komarev.com/ghpvc/?username=guptaanmol184" alt="guptaanmol184" />
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=18148655)
 
 <h2> Hey there 👋 ! I'm Anmol.</h2>
 
@@ -17,9 +19,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anmol-gupta-665355120/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anmol%20Gupta-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:guptaanmol184@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-guptaanmol184@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/guptaanmol184"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-guptaanmol184-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/anmol-gupta-665355120/"><img alt="LinkedIn" src="https://img.shields.io/badge/%20-Anmol%20Gupta-blue?style=flat&logo=linkedin&labelColor=5c5c5c&color=1182c3"></a>
+<a href="mailto:guptaanmol184@gmail.com"><img alt="Email" src="https://img.shields.io/badge/%20-guptaanmol184@gmail.com-blue?style=flat&logo=gmail&labelColor=5c5c5c&color=1182c3"></a>
+<a href="https://twitter.com/guptaanmol184"><img alt="Twitter" src="https://img.shields.io/badge/%20-guptaanmol184-blue?style=flat&logo=twitter&labelColor=5c5c5c&color=1182c3"></a>
 </p>
 
 I'm always interested in meeting new people and forming connections, so feel free to reach out!
