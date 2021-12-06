@@ -1,7 +1,3 @@
-<p align="left
-  <img src="https://komarev.com/ghpvc/?username=guptaanmol184" alt="guptaanmol184" />
-</p>
-
 ![](https://hit.yhype.me/github/profile?user_id=18148655)
 
 <h2> Hey there 👋 ! I'm Anmol.</h2>
