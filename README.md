@@ -15,7 +15,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anmol-gupta-665355120/"><img alt="LinkedIn" src="https://img.shields.io/badge/%20-Anmol%20Gupta-blue?style=flat&logo=linkedin&labelColor=5c5c5c&color=1182c3"></a>
+<a href="https://www.linkedin.com/in/guptaanmol184/"><img alt="LinkedIn" src="https://img.shields.io/badge/%20-Anmol%20Gupta-blue?style=flat&logo=linkedin&labelColor=5c5c5c&color=1182c3"></a>
 <a href="mailto:guptaanmol184@gmail.com"><img alt="Email" src="https://img.shields.io/badge/%20-guptaanmol184@gmail.com-blue?style=flat&logo=gmail&labelColor=5c5c5c&color=1182c3"></a>
 <a href="https://twitter.com/guptaanmol184"><img alt="Twitter" src="https://img.shields.io/badge/%20-guptaanmol184-blue?style=flat&logo=twitter&labelColor=5c5c5c&color=1182c3"></a>
 </p>
