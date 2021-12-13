@@ -8,15 +8,17 @@
 - 💼 &nbsp; Working as a Sofware Engineer at Trimble Inc.
 - 🌱 &nbsp; Learning more about Application Architecture, System Design and Cloud Computing.
 
+<h3> 💻 &nbsp;GitHub Profile Stats </h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptaanmol184&show_icons=true&theme=vue" alt="guptaanmol184" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=guptaanmol184&show_icons=true&theme=vue" alt="guptaanmol184's stats" /> 
 </p>
 
 <h3> 🔥 &nbsp;Streak stats </h3>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaanmol184&theme=vue&hide_border=false"/>
+    <img alt="guptaanmol184's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaanmol184&theme=vue&hide_border=false"/>
 </p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
