@@ -11,7 +11,8 @@
 <h3> 💻 &nbsp;GitHub Profile Stats </h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptaanmol184&show_icons=true&theme=vue" alt="guptaanmol184's stats" /> 
+  <img alt="guptaanmol184's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guptaanmol184&show_icons=true&count_private=true&theme=vue&hide_border=false" height="192px"/>
+  <!--<img alt="guptaanmol184's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaanmol184&langs_count=8&layout=compact&theme=vue&hide_border=false&hide=Jupyter%20Notebook,cpp" height="192px"/>--> 
 </p>
 
 <h3> 🔥 &nbsp;Streak stats </h3>
