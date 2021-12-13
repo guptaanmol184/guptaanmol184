@@ -9,7 +9,14 @@
 - 🌱 &nbsp; Learning more about Application Architecture, System Design and Cloud Computing.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptaanmol184&show_icons=true" alt="guptaanmol184" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=guptaanmol184&show_icons=true&theme=vue" alt="guptaanmol184" /> 
+</p>
+
+<h3> 🔥 &nbsp;Streak stats </h3>
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="left">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaanmol184&theme=vue&hide_border=false"/>
 </p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
