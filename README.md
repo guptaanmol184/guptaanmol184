@@ -2,11 +2,14 @@
 
 <h2> Hey there 👋 ! I'm Anmol.</h2>
 
+I am passionate Software and Systems Engineer who loves solving problems with computers. I love to dig deep (internals) and understand things from first principles, helping me to have a strong understanding of computers at multiple levels of abractions. 
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and automating redundant ones.
 - 💼 &nbsp; Working as a Sofware Engineer at Trimble Inc.
-- 🌱 &nbsp; Learning more about Application Architecture, System Design and Cloud Computing.
+- 🌱 &nbsp; Learning more about Clean Architecture, System Design and Distributed Systems.
+- 🔤 &nbsp; Currenly working with Python, Java and curious about Go.
 
 <h3> 💻 &nbsp;GitHub Profile Stats </h3>
 
