@@ -10,6 +10,7 @@ I am passionate Software and Systems Engineer who loves solving problems with co
 - 💼 &nbsp; Working as a Sofware Engineer at Trimble Inc.
 - 🌱 &nbsp; Learning more about Clean Architecture, System Design and Distributed Systems.
 - 🔤 &nbsp; Currenly working with Python, Java and curious about Go.
+- 👯 &nbsp; I’m looking to collaborate on building distributed systems for fun and helping people.
 
 <h3> 💻 &nbsp;GitHub Profile Stats </h3>
 
@@ -26,7 +27,7 @@ I am passionate Software and Systems Engineer who loves solving problems with co
 <a href="https://twitter.com/guptaanmol184"><img alt="Twitter" src="https://img.shields.io/badge/%20-guptaanmol184-blue?style=flat&logo=twitter&labelColor=5c5c5c&color=1182c3"></a>
 </p>
 
-I'm always interested in meeting new people and forming connections, so feel free to reach out!
+I'm always interested in meeting new people and discussing new ideas, so feel free to reach out!
 
 <!--
 **guptaanmol184/guptaanmol184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
