@@ -18,13 +18,6 @@ I am passionate Software and Systems Engineer who loves solving problems with co
   <!--<img alt="guptaanmol184's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaanmol184&langs_count=8&layout=compact&theme=vue&hide_border=false&hide=Jupyter%20Notebook,cpp" height="192px"/>--> 
 </p>
 
-<h3> 🔥 &nbsp;Streak stats </h3>
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="left">
-    <img alt="guptaanmol184's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaanmol184&theme=vue&hide_border=false"/>
-</p>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
