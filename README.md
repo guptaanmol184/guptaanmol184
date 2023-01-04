@@ -10,7 +10,7 @@ I am passionate Software and Systems Engineer who loves solving problems with co
 - 💼 &nbsp; Working as a Sofware Engineer at Trimble Inc.
 - 🌱 &nbsp; Learning more about Clean Architecture, System Design and Distributed Systems.
 - 🔤 &nbsp; Currenly working with Python, Java and curious about Go.
-- 👯 &nbsp; I’m looking to collaborate on building distributed systems for fun and helping people.
+- 👯 &nbsp; I’m looking to collaborate on building distributed systems for fun and helping people while learning together.
 
 <h3> 💻 &nbsp;GitHub Profile Stats </h3>
 
