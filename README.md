@@ -7,7 +7,7 @@ I am passionate Software and Systems Engineer who loves solving problems with co
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and automating redundant ones.
-- 💼 &nbsp; Working as a Sofware Engineer at Trimble Inc.
+- 💼 &nbsp; Working as a Sofware Engineer at Clari Inc.
 - 🌱 &nbsp; Learning more about Clean Architecture, System Design and Distributed Systems.
 - 🔤 &nbsp; Currenly working with Python, Java and curious about Go.
 - 👯 &nbsp; I’m looking to collaborate on building distributed systems for fun and helping people while learning together.
